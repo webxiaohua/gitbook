@@ -7,3 +7,4 @@
 * [4.从小白到高手，你需要理解同步与异步](4.-cong-xiao-bai-dao-gao-shou-ni-xu-yao-li-jie-tong-bu-yu-yi-bu.md)
 * [5.你管这破玩意叫IO多路复用？](5.-ni-guan-zhe-po-wan-yi-jiao-io-duo-lu-fu-yong.md)
 * [6.CPU是如何理解01二进制的？](6.cpu-shi-ru-he-li-jie-01-er-jin-zhi-de.md)
+* [7.CPU空闲时在干嘛？](7.cpu-kong-xian-shi-zai-gan-ma.md)
