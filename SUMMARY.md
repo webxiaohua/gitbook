@@ -22,3 +22,4 @@
 * [19.CPU进化论：精简指令集的诞生](19.cpu-jin-hua-lun-jing-jian-zhi-ling-ji-de-dan-sheng.md)
 * [20.CPU核数与线程数有什么关系？](20.cpu-he-shu-yu-xian-cheng-shu-you-shi-mo-guan-xi.md)
 * [21.你管这破玩意叫mmap？](21.-ni-guan-zhe-po-wan-yi-jiao-mmap.md)
+* [22.彻底理解零拷贝](22.-che-di-li-jie-ling-kao-bei.md)
