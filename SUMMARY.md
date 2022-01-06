@@ -19,3 +19,4 @@
 * [16.CPU是如何读写内存的？](16.cpu-shi-ru-he-du-xie-nei-cun-de.md)
 * [17.CPU与分支预测](17.cpu-yu-fen-zhi-yu-ce.md)
 * [18.CPU进化论：复杂指令集的诞生](18.cpu-jin-hua-lun-fu-za-zhi-ling-ji-de-dan-sheng.md)
+* [19.CPU进化论：精简指令集的诞生](19.cpu-jin-hua-lun-jing-jian-zhi-ling-ji-de-dan-sheng.md)
