@@ -23,3 +23,4 @@
 * [20.CPU核数与线程数有什么关系？](20.cpu-he-shu-yu-xian-cheng-shu-you-shi-mo-guan-xi.md)
 * [21.你管这破玩意叫mmap？](21.-ni-guan-zhe-po-wan-yi-jiao-mmap.md)
 * [22.彻底理解零拷贝](22.-che-di-li-jie-ling-kao-bei.md)
+* [23.操作系统与内核有什么区别？](23.-cao-zuo-xi-tong-yu-nei-he-you-shi-mo-qu-bie.md)
