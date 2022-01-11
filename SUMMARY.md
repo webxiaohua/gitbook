@@ -25,3 +25,4 @@
 * [22.彻底理解零拷贝](22.-che-di-li-jie-ling-kao-bei.md)
 * [23.操作系统与内核有什么区别？](23.-cao-zuo-xi-tong-yu-nei-he-you-shi-mo-qu-bie.md)
 * [24.彻底理解树的递归遍历](24.-che-di-li-jie-shu-de-di-gui-bian-li.md)
+* [25.CPU寄存器是如何装入结构体的？](25.cpu-ji-cun-qi-shi-ru-he-zhuang-ru-jie-gou-ti-de.md)
