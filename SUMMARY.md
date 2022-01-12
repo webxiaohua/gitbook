@@ -29,3 +29,4 @@
 * [26.CPU可以跑多快？从地球到火星的距离告诉你](26.cpu-ke-yi-pao-duo-kuai-cong-di-qiu-dao-huo-xing-de-ju-li-gao-su-ni.md)
 * [27.回调函数实现的原理是什么？](27.-hui-tiao-han-shu-shi-xian-de-yuan-li-shi-shi-mo.md)
 * [28.程序员还需要理解汇编吗？](28.-cheng-xu-yuan-huan-xu-yao-li-jie-hui-bian-ma.md)
+* [29.什么是异步编程？](29.-shi-mo-shi-yi-bu-bian-cheng.md)
