@@ -27,3 +27,4 @@
 * [24.彻底理解树的递归遍历](24.-che-di-li-jie-shu-de-di-gui-bian-li.md)
 * [25.CPU寄存器是如何装入结构体的？](25.cpu-ji-cun-qi-shi-ru-he-zhuang-ru-jie-gou-ti-de.md)
 * [26.CPU可以跑多快？从地球到火星的距离告诉你](26.cpu-ke-yi-pao-duo-kuai-cong-di-qiu-dao-huo-xing-de-ju-li-gao-su-ni.md)
+* [27.回调函数实现的原理是什么？](27.-hui-tiao-han-shu-shi-xian-de-yuan-li-shi-shi-mo.md)
