@@ -32,3 +32,4 @@
 * [29.什么是异步编程？](29.-shi-mo-shi-yi-bu-bian-cheng.md)
 * [30.彻底理解C语言中的指针](30.-che-di-li-jiecyu-yan-zhong-de-zhi-zhen.md)
 * [31.程序员应如何理解标准库](31.-cheng-xu-yuan-ying-ru-he-li-jie-biao-zhun-ku.md)
+* [32.程序员应如何理解多态？](32.-cheng-xu-yuan-ying-ru-he-li-jie-duo-tai.md)
