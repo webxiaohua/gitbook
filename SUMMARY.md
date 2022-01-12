@@ -31,3 +31,4 @@
 * [28.程序员还需要理解汇编吗？](28.-cheng-xu-yuan-huan-xu-yao-li-jie-hui-bian-ma.md)
 * [29.什么是异步编程？](29.-shi-mo-shi-yi-bu-bian-cheng.md)
 * [30.彻底理解C语言中的指针](30.-che-di-li-jiecyu-yan-zhong-de-zhi-zhen.md)
+* [31.程序员应如何理解标准库](31.-cheng-xu-yuan-ying-ru-he-li-jie-biao-zhun-ku.md)
