@@ -28,3 +28,4 @@
 * [25.CPU寄存器是如何装入结构体的？](25.cpu-ji-cun-qi-shi-ru-he-zhuang-ru-jie-gou-ti-de.md)
 * [26.CPU可以跑多快？从地球到火星的距离告诉你](26.cpu-ke-yi-pao-duo-kuai-cong-di-qiu-dao-huo-xing-de-ju-li-gao-su-ni.md)
 * [27.回调函数实现的原理是什么？](27.-hui-tiao-han-shu-shi-xian-de-yuan-li-shi-shi-mo.md)
+* [28.程序员还需要理解汇编吗？](28.-cheng-xu-yuan-huan-xu-yao-li-jie-hui-bian-ma.md)
