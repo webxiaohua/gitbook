@@ -34,3 +34,4 @@
 * [31.程序员应如何理解标准库](31.-cheng-xu-yuan-ying-ru-he-li-jie-biao-zhun-ku.md)
 * [32.程序员应如何理解头文件？](32.-cheng-xu-yuan-ying-ru-he-li-jie-tou-wen-jian.md)
 * [33.程序员应如何理解多态？](33.-cheng-xu-yuan-ying-ru-he-li-jie-duo-tai.md)
+* [34.为什么抽象在计算机科学中如此重要？](34.-wei-shi-mo-chou-xiang-zai-ji-suan-ji-ke-xue-zhong-ru-ci-zhong-yao.md)
