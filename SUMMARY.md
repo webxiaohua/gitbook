@@ -37,3 +37,4 @@
 * [34.为什么抽象在计算机科学中如此重要？](34.-wei-shi-mo-chou-xiang-zai-ji-suan-ji-ke-xue-zhong-ru-ci-zhong-yao.md)
 * [35.彻底理解堆](35.-che-di-li-jie-dui.md)
 * [36.彻底理解链表](36.-che-di-li-jie-lian-biao.md)
+* [37.知乎回答](37.-zhi-hu-hui-da.md)
